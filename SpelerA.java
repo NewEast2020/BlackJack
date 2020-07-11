@@ -1,6 +1,5 @@
 class SpelerA {
     private SpelerA(){
-
     }
     private static int inlegA = 10;
     private static double accountA = 150;

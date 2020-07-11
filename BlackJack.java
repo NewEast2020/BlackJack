@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
+
 public class BlackJack {
     static final String ACCOUNT = "  Account: ";
     static final String NOPRINT = "noPrint";

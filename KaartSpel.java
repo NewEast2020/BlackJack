@@ -4,11 +4,9 @@ import java.util.Random;
 class KaartSpel {
     static final String TOTAALWAARDE = "==== totaalwaarde";
     static final String STREEPJE = " ====";
-
     private static int maxWaardeSpeler = 0;
     private static int maxWaardeBank = 0;
     private KaartSpel(){
-
     }
     public static int getMaxWaardeSpeler() {
         return maxWaardeSpeler;

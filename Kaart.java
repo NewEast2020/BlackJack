@@ -8,11 +8,9 @@ class Kaart {
     public String getSoort() {
         return soort;
     }
-
     public String getNummerFig() {
         return nummerFig;
     }
-
     public String getkleur() {
         return kleur;
     }
